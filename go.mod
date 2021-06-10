@@ -1,4 +1,4 @@
-module scrapping-with-chrome
+module scrapping-with-chromedp
 
 go 1.16
 
